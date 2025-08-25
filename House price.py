@@ -18,3 +18,4 @@ plt.ylabel("House Price (USD)")
 plt.title("Linear Regression: House Price vs. Square Footage")
 plt.legend()
 plt.show()
+#LinearRegression #DataScience #MachineLearning #RealEstate #Python #Sklearn #DataAnalysis #AI
